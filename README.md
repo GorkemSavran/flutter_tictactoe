@@ -1,6 +1,6 @@
-# one_twenty_one_flutter
+# flutter_tictactoe
 
-A new Flutter project.
+Simple tic tac toe game made with flutter.
 
 ## Getting Started
 
